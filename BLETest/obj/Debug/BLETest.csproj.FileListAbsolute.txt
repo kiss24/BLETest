@@ -1,0 +1,9 @@
+C:\Users\Irvin\source\repos\BLETest\BLETest\obj\Debug\BLETest.csprojAssemblyReference.cache
+C:\Users\Irvin\source\repos\BLETest\BLETest\obj\Debug\BLETest.csproj.CoreCompileInputs.cache
+C:\Users\Irvin\source\repos\BLETest\BLETest\bin\Debug\BLETest.exe.config
+C:\Users\Irvin\source\repos\BLETest\BLETest\bin\Debug\BLETest.exe
+C:\Users\Irvin\source\repos\BLETest\BLETest\bin\Debug\BLETest.pdb
+C:\Users\Irvin\source\repos\BLETest\BLETest\bin\Debug\BLECode.dll
+C:\Users\Irvin\source\repos\BLETest\BLETest\obj\Debug\BLETest.csproj.CopyComplete
+C:\Users\Irvin\source\repos\BLETest\BLETest\obj\Debug\BLETest.exe
+C:\Users\Irvin\source\repos\BLETest\BLETest\obj\Debug\BLETest.pdb
